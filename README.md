@@ -1,5 +1,4 @@
 # <div align="center">Yo, It's Shahzaib! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving"></div>
-<br>
 
 ### About Me
 
@@ -20,3 +19,6 @@
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/shahzaibn/) &nbsp; &nbsp; [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/Shahzaib_100) &nbsp; &nbsp; [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/15577151/shahzaib-naseer?tab=profile)  &nbsp; &nbsp; [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:shahzaib414@gmail.com)
 
  
+<br/>
+
+![Coder](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
