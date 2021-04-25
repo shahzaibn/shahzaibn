@@ -1,18 +1,15 @@
-
-
-
-# <div align="center">Yo, Its Shahzaib <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving"></div>
+# <div align="center">Yo, It's Shahzaib! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving"></div>
 <br>
 
 ### About Me
 
--  18 year old tech geek 🤖
--  Freshman at University of Central Punjab 👨‍🎓
-- An enthusiastic programmer who wants to explore automation and hacking 🌌
-- Aiming to become a renowned developer in the community ⚡  
-- Striving to make a dent in the modern world 🌎
-- Open to any opportunities regarding tech, talks and events 🌟
-- Fun Fact: My love for music is never-ending 🎶
+- 🤖 18 year old tech geek
+- 👨‍🎓 Freshman at University of Central Punjab
+- 🌌 An enthusiastic programmer who's exploring automation and hacking
+- ⚡ Aiming to become a renowned developer in the community  
+- 🌎 Striving to make a dent in the modern world
+- 🌟 Open to any opportunities regarding tech, talks and events
+- 🎶 Fun Fact: My love for music is never-ending
 
 ### Tools I Use
 
@@ -20,6 +17,6 @@
 
 ### Connect With Me
 
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/shahzaibn/)  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/Shahzaib_100) [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/15577151/shahzaib-naseer?tab=profile)  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:shahzaib414@gmail.com)
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/shahzaibn/) &nbsp; &nbsp; [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/Shahzaib_100) &nbsp; &nbsp; [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/15577151/shahzaib-naseer?tab=profile)  &nbsp; &nbsp; [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:shahzaib414@gmail.com)
 
  
