@@ -2,8 +2,8 @@
 
 ### About Me
 
-- 🤖 18 year old tech geek
-- 👨‍🎓 Freshman at University of Central Punjab
+- 🤖 19 year old tech geek
+- 👨‍🎓 Freshman at Forman Christian College University
 - 🌌 An enthusiastic programmer who's exploring automation and hacking
 - ⚡ Aiming to become a renowned developer in the community  
 - 🌎 Striving to make a dent in the modern world
